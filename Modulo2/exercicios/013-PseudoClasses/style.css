@@ -1,0 +1,14 @@
+div{
+    display: inline-block;
+    background-color: lightgray;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    line-height: 200px;
+    border: 1px solid #000;
+}
+
+div:hover{
+    background-color: lightgreen;
+    cursor: pointer;
+}
